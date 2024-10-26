@@ -1,0 +1,12 @@
+.rulesList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 20px;
+  }
+  
+  .title {
+    font-size: 1.8rem;
+    color: #3c3c3c;
+    margin-bottom: 15px;
+  }
+  
